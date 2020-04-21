@@ -1,5 +1,0 @@
-/home/nicolas/Projects/EjercicioFacturacion/EjercicioFacturacion/bin/Debug/EjercicioFacturacion.exe
-/home/nicolas/Projects/EjercicioFacturacion/EjercicioFacturacion/bin/Debug/EjercicioFacturacion.pdb
-/home/nicolas/Projects/EjercicioFacturacion/EjercicioFacturacion/obj/x86/Debug/EjercicioFacturacion.csprojAssemblyReference.cache
-/home/nicolas/Projects/EjercicioFacturacion/EjercicioFacturacion/obj/x86/Debug/EjercicioFacturacion.exe
-/home/nicolas/Projects/EjercicioFacturacion/EjercicioFacturacion/obj/x86/Debug/EjercicioFacturacion.pdb

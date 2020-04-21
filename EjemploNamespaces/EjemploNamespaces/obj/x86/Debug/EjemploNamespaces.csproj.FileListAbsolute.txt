@@ -1,5 +1,0 @@
-/home/nicolas/Projects/EjemploNamespaces/EjemploNamespaces/obj/x86/Debug/EjemploNamespaces.csprojAssemblyReference.cache
-/home/nicolas/Projects/EjemploNamespaces/EjemploNamespaces/bin/Debug/EjemploNamespaces.exe
-/home/nicolas/Projects/EjemploNamespaces/EjemploNamespaces/bin/Debug/EjemploNamespaces.pdb
-/home/nicolas/Projects/EjemploNamespaces/EjemploNamespaces/obj/x86/Debug/EjemploNamespaces.exe
-/home/nicolas/Projects/EjemploNamespaces/EjemploNamespaces/obj/x86/Debug/EjemploNamespaces.pdb

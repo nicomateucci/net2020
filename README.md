@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="imagenes/UTN.png" alt="logo_utn">
 </h1>
-<h5 align="center">Universidad Tecnologica Nacional</h5>
+<h5 align="center">Universidad Tecnologica Nacional </h5>
 
-## Materia: Técnicas y Tecnologías de Desarrollo  Software IDE 2020
+# Materia: Técnicas y Tecnologías de Desarrollo  Software IDE 2020
 
 # Entorno 🛠️
 
